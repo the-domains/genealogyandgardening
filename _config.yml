@@ -1,7 +1,7 @@
 name: Genealogy & Gardening
 favicon: null
-layout_spectrum: 0.283723323373124
-typography_spectrum: 0.7611430715769529
+layout_spectrum: 0.88682
+typography_spectrum: 0.62147
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#0d1c17'
+    - '#104a21'
+    - '#3dbb2c'
+    - '#229b10'
+    - '#84d56c'
   brandStrength: 0.412706715753302
-  lightness: 0.2709588638972491
+  lightness: 0.25
   saturation: 0.3477719353977591
   rhythmicContrast: 0.24255282687954605
 purpose: []
