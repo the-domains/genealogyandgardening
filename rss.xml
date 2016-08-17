@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Genealogy & Gardening]]></title>
         <description><![CDATA[Genealogy & Gardening]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/genealogyandgardening/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 20:15:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Aug 2016 20:20:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/genealogyandgardening/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/444b1ce3-a671-4c00-a6d0-73d0af0eecac.jpg">]]></description>
+            <link>https://thegrid.ai/genealogyandgardening/sweet-corn/index.html</link>
+            <guid isPermaLink="false">58d4b807-dd2c-4391-a748-03ad4f7863b4</guid>
+            <pubDate>Wed, 17 Aug 2016 20:20:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c546fd9e-f187-495d-abd6-03350ba29b30.jpg">]]></description>
-            <link>undefinednow-that-the-baby-bounty-has-begun/index.html</link>
+            <link>https://thegrid.ai/genealogyandgardening/now-that-the-baby-bounty-has-begun/index.html</link>
             <guid isPermaLink="false">1dc4801e-59c5-4e7f-b8c6-47728b421d35</guid>
             <pubDate>Wed, 17 Aug 2016 20:15:50 GMT</pubDate>
         </item>
